@@ -1,3 +1,5 @@
+<img width="1092" height="290" alt="Image" src="https://github.com/user-attachments/assets/d0efcaff-4eaf-4041-8f05-1545be895182" />
+
 # 📘 Exercícios de Java: Métodos, Sobrecarga e Retornos
 Este repositório contém exercícios práticos e explicados sobre:  Criação de métodos em Java  Retorno de valores  Sobrecarga de métodos  Ideal para iniciantes no desenvolvimento Java Backend.
 
