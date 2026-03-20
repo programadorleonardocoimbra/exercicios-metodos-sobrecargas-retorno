@@ -20,6 +20,9 @@ Este repositório contém exercícios práticos e explicados sobre:
 | **Retorno**    | *Valor devolvido pelo método*             |
 | **Sobrecarga** | *Mesmo método com diferentes assinaturas* |
 
+📌 **Autor**
+*Leonardo Coimbra de Paiva*
+
 
 
 
