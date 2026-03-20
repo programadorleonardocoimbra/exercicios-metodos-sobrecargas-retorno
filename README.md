@@ -13,11 +13,11 @@ Este repositório contém exercícios práticos e explicados sobre:
 - Método com Retorno de String [Acesse AQUI](https://github.com/programadorleonardocoimbra/exercicios-metodos-sobrecargas-retorno/blob/main/metodoComRetornoString.java)
 
 📊 Resumo dos Conceitos
-| **Conceito** | **Descrição** |
---------------------------------------
-| **Método** | *Bloco de código reutilizável* |
-| **Parâmetros** | *Valores recebidos pelo método* |
-| **Retorno** | *Valor devolvido pelo método* |
+| **Conceito**   | **Descrição**                             |
+| -------------- | ----------------------------------------- |
+| **Método**     | *Bloco de código reutilizável*            |
+| **Parâmetros** | *Valores recebidos pelo método*           |
+| **Retorno**    | *Valor devolvido pelo método*             |
 | **Sobrecarga** | *Mesmo método com diferentes assinaturas* |
 
 
